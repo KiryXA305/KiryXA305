@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hello! Im KiryXA305.
+I'm coding a bit. Mostly simple programs and games.
+
+### Programming languages
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+
 
 <!--
 **KiryXA305/KiryXA305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
