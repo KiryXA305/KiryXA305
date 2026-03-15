@@ -8,8 +8,7 @@ I'm coding a bit. Mostly simple programs and games.
 ](https://learn.microsoft.com/en-us/dotnet/csharp/)
 
 ### Tools
-[![Static Badge](https://img.shields.io/badge/C%23%20-%209381d6?style=for-the-badge&logoColor=%23FFFFFF&labelColor=9381d6&color=9381d6&link=https%3A%2F%2Fcode.visualstudio.com)
-](https://code.visualstudio.com/)
+[![Visual Studio Code](https://img.shields.io/badge/VS%20code%20-%2050b0d9?style=for-the-badge&logoColor=%23FFFFFF&labelColor=50b0d9&color=50b0d9)](https://code.visualstudio.com/)
 
 
 <!--
