@@ -7,7 +7,7 @@ I'm coding a bit. Mostly simple programs and games.
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 
 ### Tools
-[![Visual Studio Code](https://img.shields.io/badge/VS%20code?style=for-the-badge&logo=visualstudiocode)](https://code.visualstudio.com)
+[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 
 
 <!--
