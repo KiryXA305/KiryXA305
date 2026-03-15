@@ -4,7 +4,8 @@ I'm coding a bit. Mostly simple programs and games.
 ### Programming languages
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![С#](https://img.shields.io/badge/C%23%20-%209381d6?style=for-the-badge&logoColor=%23FFFFFF&labelColor=9381d6&color=9381d6&link=https%3A%2F%2Fcode.visualstudio.com)
+](https://learn.microsoft.com/en-us/dotnet/csharp/)
 
 ### Tools
 [![Static Badge](https://img.shields.io/badge/C%23%20-%209381d6?style=for-the-badge&logoColor=%23FFFFFF&labelColor=9381d6&color=9381d6&link=https%3A%2F%2Fcode.visualstudio.com)
