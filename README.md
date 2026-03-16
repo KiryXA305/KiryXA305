@@ -1,5 +1,5 @@
 # Hello! Im KiryXA305.
-I'm coding a bit. Mostly simple programs and games.
+I'm coding a bit. Mostly simple programs and games.<br>
 And I like it!
 
 ### Programming languages
