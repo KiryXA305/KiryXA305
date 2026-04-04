@@ -10,7 +10,7 @@ And I like it!
 
 ### Tools
 [![Visual Studio Code](https://img.shields.io/badge/VS%20code%20-%2050b0d9?style=for-the-badge&logoColor=%23FFFFFF&labelColor=50b0d9&color=50b0d9)](https://code.visualstudio.com/)
-
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
 <!--
 **KiryXA305/KiryXA305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
